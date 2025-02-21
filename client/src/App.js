@@ -4,6 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+<<<<<<< Updated upstream
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -18,6 +19,10 @@ function App() {
           Learn React
         </a>
       </header>
+=======
+      <h1>test1 팀원 입니다.</h1>
+      <h2>oks</h2>
+>>>>>>> Stashed changes
     </div>
   );
 }
